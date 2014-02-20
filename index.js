@@ -3,8 +3,8 @@
  * dependencies.
  */
 
-var emitter = require('emitter')
-  , events = require('events');
+var emitter = require('component-emitter')
+  , events = require('component-events');
 
 /**
  * export `Video`

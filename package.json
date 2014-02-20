@@ -1,0 +1,11 @@
+{
+  "name": "yields-video",
+  "description": "video api.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git"
+  },
+  "license": "MIT"
+}
